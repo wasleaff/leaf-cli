@@ -1,2 +1,2 @@
-# leaf-cli
-A handy tool for you to create a project!
+# node版本要求
+由于本项目中使用到fs的部分函数需要兼容node v14.14.0版本，因此使用此脚手架时需要确保您的node1版本在v14.14.0及以上。
