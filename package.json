@@ -9,7 +9,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "wasleaff",
+    "email": "3206445014@qq.com"
+  },
   "license": "ISC",
   "dependencies": {
     "axios": "^1.5.1",
